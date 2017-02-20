@@ -1,0 +1,26 @@
+button {
+  display: block;
+  margin: 20px auto;
+  height: 30px;
+  width: 100px;
+  font-size: 1.3em;
+}
+
+#wrapper {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  margin: 20px auto;
+}
+
+.square {
+  height: 6.25%;
+  width: 6.25%;
+  background-color: #e8e8e8;
+  display: inline-block;
+  float: left;
+  margin: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+
+}
